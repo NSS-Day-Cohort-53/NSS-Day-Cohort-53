@@ -10,7 +10,7 @@
             "reelThemIn": "\"The world is full of magic things, patiently waiting for our senses to grow sharper.\" - W. B. Yeats",
             "project1Link": "https://github.com/aliparadise/co-Lab",
             "project1Description": "co-LAB is an application that allows artists (Collaborators) to create their own art studio meet-ups (LABs). A LAB provides artists with an opportunity for group creativity, social time and collaboration. A Collaborator can also select a Facilitator to be present at their LAB, to ensure art time runs smoothly.",
-            "proImg": "AliParadise.jpg",
+            "proImg": "AliParadise.JPG",
             "email": "alison.paradise@gmail.com"
         },
         {
@@ -24,7 +24,8 @@
             "project1Link": "https://github.com/Borba02/nss_Prop_B_Gone",
             "project1Description": "Prop-B-Gone is an inventory management app centered around supporting Lot Attendants in the Automotive Repossession industry.",
             "proImg": "BryceBorba.jpg",
-            "funImg": "BryceBorba_Fun.jpg"
+            "funImg": "BryceBorba_Fun.jpg",
+            "email": "borbaesb@gmail.com"
         },
         {
             "id": 3,
@@ -46,7 +47,7 @@
             "linkedIn": "https://www.linkedin.com/in/douglas-silvera/",
             "github": "https://github.com/DougSilvera",
             "bio": "As leader of many Restaurant Industry teams I have seen how many numerous opportunities there are for technology to make operations run  smoother, software development has finally provided me the ability to do something about it. Investing in myself and my education has ignited a passion for the problem solving that comes with software development and I am looking forward to adding value to someone's problem solving team!",
-            "project1Link": "https://github.com/Borba02/nss_Prop_B_Gone",
+            "project1Link": "https://github.com/DougSilvera/Kakeibo-on-the-Go",
             "project1Description": "Web application built in React to mirror a century old budget method traditionally written on paper.",
             "proImg": "DougSilvera.jpg"
         },
@@ -104,8 +105,9 @@
             "lastName": "Petty",
             "linkedIn": "https://www.linkedin.com/in/jasmine--petty/",
             "github": "https://github.com/jaypetty",
+            "bio": "Lover of books, music, and all things tech related. I've always been curious and fascinated by how web pages work & how they're created since back in the Myspace",
+            "reelThemIn": "“If debugging is the process of removing bugs, then programming must be the process of putting them in.” - Edsger W. Dijkstr",
             "project1Link": "https://github.com/jaypetty/The-Grow-Up",
-            "proImg": "JasminePetty.jpg",
             "email": "jayshaun2343@gmail.com"
         },
         {
@@ -162,7 +164,7 @@
             "reelThemIn": "\"It doesn't matter if you're rich, poor, handicapped, or able. At the end of the day, it's night.\"",
             "project1Link": "https://github.com/nathanelmer/FindYourHome",
             "project1Description": "Front-end React App designed for realtors to list and sell homes and a home searching tool for buyers",
-            "proImg": "NathanElmer.jpg",
+            "proImg": "NathanElmer.jpeg",
             "email": "nelmer12@gmail.com"
         },
         {
@@ -175,7 +177,8 @@
             "reelThemIn": "You don't have to be great to start, but you have to start to be great.– Zig Ziglar",
             "project1Link": "https://github.com/SaraHackle/Capstone-Project",
             "project1Description": "A card game of real life tasks, designed to play against someone you live with. JavaScript React App styled using CSS and Material UI. App has full CRUD functionality (CREATE, READ, UPDATE and DELETE). Connects two users in one application. Database created using JSON server",
-            "proImg": "SaraHackle.jpg"
+            "proImg": "SaraHackle.jpg",
+            "email": "Sara.Hackle@gmail.com"
         },
         {
             "id": 16,
