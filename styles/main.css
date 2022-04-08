@@ -20,7 +20,7 @@ blockquote{
     left:-1000%;right:-1000%; 
     top:-1000%; bottom:-1000%; 
     margin: auto;
-    /* animation: swirl 15s linear 0s infinite normal; */
+    animation: swirl 15s linear 0s infinite normal;
     z-index: -5;
 }
 
