@@ -5,24 +5,39 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
-    background-size: 100%;
-    background-color: black;
 }
 
 blockquote{
     margin-left: 40px;
     margin-right: 40px;
-    background-color: #ddd;
+    background-color: #350944;
     padding: 2em;
 }
 
+.background
+{
+    position: fixed;
+    left:-1000%;right:-1000%; 
+    top:-1000%; bottom:-1000%; 
+    margin: auto;
+    /* animation: swirl 15s linear 0s infinite normal; */
+    z-index: -5;
+}
+
+@keyframes swirl {
+    0% {transform: rotate(0deg)}
+    25% {transform: rotate(-90deg)}
+    50% {transform: rotate(-180deg)}
+    75% {transform: rotate(-270deg)}
+    100% {transform: rotate(-360deg)}
+}
+
 .navbar{
-    background-color: rgb(55, 55, 56);
+    background-color: #24B682;
     padding: 20px;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
-    background: white !important;
+    background: #50167A;
 }
 .navbar-brand{
     display: flex;
@@ -30,16 +45,20 @@ blockquote{
 .nav-spacing {
   margin-right: 2em;
 }
+.nav-link
+{
+    color: #350944!important;
+}
 
 #cohort22{
     display: inline-block;
-    color: #238193;
+    color: #350944;
 }
 
 #jumbheader{
-    box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
-    color: lightgray;
+    box-shadow: 2px 2px 2px #350944;
+    background-color: #24B682!important;
+    color: #350944;
 
 }
 .header-text{
@@ -47,7 +66,7 @@ blockquote{
     padding-top: 10px;
     font-weight: bold;
     height: 50px;
-    color: white;
+    color: #350944;
 
 }
 
@@ -173,8 +192,8 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
-    color: white;
+    background-color: #24B682!important;
+    color: #350944;
 }
 
 #demo-date {
@@ -182,7 +201,12 @@ main {
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: #24B682!important;
+}
+
+.container h1
+{
+    color: #24B682!important;
 }
 
 button{
