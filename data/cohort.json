@@ -11,7 +11,7 @@
             "project1Link": "https://github.com/aliparadise/co-Lab",
             "project1Description": "co-LAB is an application that allows artists (Collaborators) to create their own art studio meet-ups (LABs). A LAB provides artists with an opportunity for group creativity, social time and collaboration. A Collaborator can also select a Facilitator to be present at their LAB, to ensure art time runs smoothly.",
             "proImg": "AliParadise.jpg",
-            "funImg": "AliParadiseFun.jpg"
+            "email": "alison.paradise@gmail.com"
         },
         {
             "id": 2,
@@ -20,10 +20,11 @@
             "linkedIn": "https://www.linkedin.com/in/bryceborba/",
             "github": "https://github.com/Borba02",
             "bio": "I am a tech enthusiast and Software Developer from California. I come from an agricultural family and developed a passion for technology at an early age. As the world of personal computers and home-internet came to be, I quickly became the one-man, in-house IT Department for my friends and family. When I left High School I intended to pursue a career in programming. I became a parent very soon after. I put my traditional education on pause in order to focus on being the best young parent I could be. Now, a decade later, I've returned to finish what I started. To be a part of something in the industry that resembled magic to me as a child.",
+            "reelThemIn": "“I'm a peacock Captain! You gotta let me fly!” - Terry Hoitz",
             "project1Link": "https://github.com/Borba02/nss_Prop_B_Gone",
             "project1Description": "Prop-B-Gone is an inventory management app centered around supporting Lot Attendants in the Automotive Repossession industry.",
             "proImg": "BryceBorba.jpg",
-            "funImg": "BryceBorbaFun.jpg"
+            "funImg": "BryceBorba_Fun.jpg"
         },
         {
             "id": 3,
@@ -36,7 +37,7 @@
             "project1Link": "https://github.com/cjgochanour/rudimentary",
             "project1Description": "Web-app for tracking percussion student progress",
             "proImg": "CoryGochanour.jpg",
-            "funImg": "CoryGochanourFun.jpg"
+            "email": "cjgochanour@gmail.com"
         },
         {
             "id": 4,
@@ -45,10 +46,9 @@
             "linkedIn": "https://www.linkedin.com/in/douglas-silvera/",
             "github": "https://github.com/DougSilvera",
             "bio": "As leader of many Restaurant Industry teams I have seen how many numerous opportunities there are for technology to make operations run  smoother, software development has finally provided me the ability to do something about it. Investing in myself and my education has ignited a passion for the problem solving that comes with software development and I am looking forward to adding value to someone's problem solving team!",
-            "project1Link": "https://github.com/DougSilvera/Kakeibo-on-the-Go",
+            "project1Link": "https://github.com/Borba02/nss_Prop_B_Gone",
             "project1Description": "Web application built in React to mirror a century old budget method traditionally written on paper.",
-            "proImg": "DougSilvera.jpg",
-            "funImg": "DougSilveraFun.jpg"
+            "proImg": "DougSilvera.jpg"
         },
         {
             "id": 5,
@@ -59,7 +59,7 @@
             "project1Link": "https://github.com/SchmidtFred/CheckBoard",
             "project1Description": "A fun and interactive list manager based on the achievement systems found in Kirby: Air Ride and Super Smash Bros. Brawl",
             "proImg": "FredSchmidt.jpg",
-            "funImg": "FredSchmidtFun.jpg"
+            "email": "fschmidt@live.com"
         },
         {
             "id": 6,
@@ -67,8 +67,11 @@
             "lastName": "Pruett",
             "linkedIn": "https://www.linkedin.com/in/hunter--pruett/",
             "github": "https://github.com/user1hunter",
+            "bio": "I am a young and aspiring Software Developer. I\r\nEnjoy web development as it allows me to code\r\nsomething to together and see it come together into\r\na useable app which I can continuously refine and\r\nshow to my family and friends.\r",
+            "project1Link": "https://github.com/user1hunter/dinner-generator",
+            "project1Description": "Dinner Generator is a web-app for anyone who has trouble deciding what they would like to eat. The goal of the app is to provide an easy-to-use app which will help any user pick what to eat without said user having to decide for themselves.",
             "proImg": "HunterPruett.jpg",
-            "funImg": "HunterPruettFun.jpg"
+            "email": "user2hunter@gmail.com"
         },
         {
             "id": 7,
@@ -80,8 +83,7 @@
             "reelThemIn": "It's pronounced \"gif\"",
             "project1Link": "https://github.com/IsaacWeiser/Going-Zen",
             "project1Description": "This repo is for a website that suggests room layouts",
-            "proImg": "IsaacWeiser.jpg",
-            "funImg": "IsaacWeiserFun.jpg"
+            "proImg": "IsaacWeiser.jpeg"
         },
         {
             "id": 8,
@@ -94,7 +96,7 @@
             "project1Link": "https://github.com/JacobF94/NSS-Frontend-Capstone",
             "project1Description": "NSS Front end capstone, a React project for a daily fitness planner",
             "proImg": "JacobFrensley.jpg",
-            "funImg": "JacobFrensleyFun.jpg"
+            "email": "Jacob.Frensley@gmail.com"
         },
         {
             "id": 9,
@@ -102,8 +104,9 @@
             "lastName": "Petty",
             "linkedIn": "https://www.linkedin.com/in/jasmine--petty/",
             "github": "https://github.com/jaypetty",
+            "project1Link": "https://github.com/jaypetty/The-Grow-Up",
             "proImg": "JasminePetty.jpg",
-            "funImg": "JasminePettyFun.jpg"
+            "email": "jayshaun2343@gmail.com"
         },
         {
             "id": 10,
@@ -111,8 +114,7 @@
             "lastName": "Williams",
             "linkedIn": "https://www.linkedin.com/in/jennifer-williams-37a562232/",
             "github": "https://github.com/Jennifer-Blue-Williams",
-            "proImg": "JenniferWilliams.jpg",
-            "funImg": "JenniferWilliamsFun.jpg"
+            "proImg": "BlueWilliams.jpg"
         },
         {
             "id": 11,
@@ -124,8 +126,7 @@
             "reelThemIn": "My tastes are simple: I am easily satisfied with the best - Winston Churchill",
             "project1Link": "https://github.com/jbyrd4/OW-Stat-Tracker",
             "project1Description": "Hard Counter is a web app that allows users to track game results from the video game Overwatch. You can add/edit/remove friend accounts and played games. The users win rate is then tracked on a by game and by friend basis to allow for better planning in competitive play.",
-            "proImg": "JuryByrd.jpg",
-            "funImg": "JuryByrdFun.jpg"
+            "proImg": "JuryByrd.jpg"
         },
         {
             "id": 12,
@@ -136,8 +137,7 @@
             "bio": "Tech Enthusiast and Lovable Scoundrel",
             "project1Link": "https://github.com/matt-rich-anderson/property-goat",
             "project1Description": "The Greatest Property Management App Of All Time",
-            "proImg": "MatthewAnderson.jpg",
-            "funImg": "MatthewAndersonFun.jpg"
+            "proImg": "MatthewAnderson.jpg"
         },
         {
             "id": 13,
@@ -145,11 +145,12 @@
             "lastName": "Center",
             "linkedIn": "https://www.linkedin.com/in/nathan-center/",
             "github": "https://github.com/NathanCenter",
-            "bio": "Tech lover and life long learner",
+            "bio": "Tech Lover and life long learner!",
+            "reelThemIn": "You will face many defeats in life, but never let yourself be defeated. -Maya Angelou",
             "project1Link": "https://github.com/NathanCenter/barReview",
             "project1Description": "A web app that lets you view a list of bars that shows you information about each bar around the nashville area.",
             "proImg": "NathanCenter.jpg",
-            "funImg": "NathanCenterFun.jpg"
+            "email": "Nathanjcenter@gmail.com "
         },
         {
             "id": 14,
@@ -162,7 +163,7 @@
             "project1Link": "https://github.com/nathanelmer/FindYourHome",
             "project1Description": "Front-end React App designed for realtors to list and sell homes and a home searching tool for buyers",
             "proImg": "NathanElmer.jpg",
-            "funImg": "NathanElmerFun.jpg"
+            "email": "nelmer12@gmail.com"
         },
         {
             "id": 15,
@@ -174,8 +175,7 @@
             "reelThemIn": "You don't have to be great to start, but you have to start to be great.– Zig Ziglar",
             "project1Link": "https://github.com/SaraHackle/Capstone-Project",
             "project1Description": "A card game of real life tasks, designed to play against someone you live with. JavaScript React App styled using CSS and Material UI. App has full CRUD functionality (CREATE, READ, UPDATE and DELETE). Connects two users in one application. Database created using JSON server",
-            "proImg": "SaraHackle.jpg",
-            "funImg": "SaraHackleFun.jpg"
+            "proImg": "SaraHackle.jpg"
         },
         {
             "id": 16,
@@ -187,8 +187,7 @@
             "reelThemIn": "\"I know nothing, except the fact of my ignorance\" - Diogenes",
             "project1Link": "https://github.com/SharifRashed/Derapy",
             "project1Description": "front-end react app that allows users to submit suggestions on my friend's podcast, Derapy.",
-            "proImg": "SharifRashed.jpg",
-            "funImg": "SharifRashedFun.jpg"
+            "proImg": "SharifRashed.jpg"
         },
         {
             "id": 17,
@@ -201,7 +200,7 @@
             "project1Link": "https://github.com/sorachung/pet-journal",
             "project1Description": "Pet Journal is a client side web-app with full CRUD functionality made for forgetful pet owners, or anyone that wants to log and keep track of their pets' information. Has a neat feature where the user chooses a default pet whose related data is rendered by default on pages where showing all pets' information may be too overwhelming. Another neat feature is the Dashboard view in which \"starred\" posts and logs are shown on the dashboard page for all pets, regardless of which default pet is chosen.",
             "proImg": "SoRaChung.jpg",
-            "funImg": "SoRaChungFun.jpg"
+            "email": "sorachung.src@gmail.com"
         }
     ]
 }
