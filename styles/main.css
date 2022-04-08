@@ -167,7 +167,7 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: #50167A;
   }
   .contactIcons:hover{
       transform: scale(1.2);
@@ -213,13 +213,13 @@ button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: #50167A!important;
+    border-color: #50167A!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: #50167A!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
