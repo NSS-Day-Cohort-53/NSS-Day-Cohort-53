@@ -76,7 +76,7 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="images/${item.funImg === null ? "funimageHolder.png" : `classmates/${item.funImg}`}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
+            <center><img src="images/${item.funImg ? `classmates/${item.funImg}` : "funimageHolder.png"}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
 
             `
 
@@ -123,3 +123,22 @@ function techs(list) {
       </div>`;
   });
 };
+
+let swirlActive = false;
+
+const mainContainer = document.querySelector("main");
+const swirl = document.querySelector(".background")
+
+mainContainer.addEventListener("click", (event) => {
+  if (event.target.id === "swirl-trigger") {
+    if (swirlActive) {
+      swirl.style.animation = "none";
+      event.target.innerHTML = "Activate C53 Zone";
+      swirlActive = false;
+    } else {
+      swirl.style.animation = "swirl 15s linear 0s infinite normal";
+      event.target.innerHTML = "Deactivate";
+      swirlActive = true;
+    }
+  }
+})
