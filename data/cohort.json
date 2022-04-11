@@ -69,7 +69,7 @@
             "lastName": "Pruett",
             "linkedIn": "https://www.linkedin.com/in/hunter--pruett/",
             "github": "https://github.com/user1hunter",
-            "bio": "I am a young and aspiring Software Developer. I\r\nEnjoy web development as it allows me to code\r\nsomething to together and see it come together into\r\na useable app which I can continuously refine and\r\nshow to my family and friends.\r",
+            "bio": "I am a young and aspiring Software Developer. I Enjoy web development as it allows me to code something to together and see it come together into a useable app which I can continuously refine and show to my family and friends.",
             "project1Link": "https://github.com/user1hunter/dinner-generator",
             "project1Description": "Dinner Generator is a web-app for anyone who has trouble deciding what they would like to eat. The goal of the app is to provide an easy-to-use app which will help any user pick what to eat without said user having to decide for themselves.",
             "proImg": "HunterPruett.jpg",
@@ -195,7 +195,7 @@
         },
         {
             "id": 17,
-            "firstName": "SoRa",
+            "firstName": "So Ra",
             "lastName": "Chung",
             "linkedIn": "https://www.linkedin.com/in/sora-chung/",
             "github": "https://github.com/sorachung",
