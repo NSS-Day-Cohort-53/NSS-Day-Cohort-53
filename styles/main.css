@@ -20,7 +20,7 @@ blockquote{
     left:-1000%;right:-1000%; 
     top:-1000%; bottom:-1000%; 
     margin: auto;
-    /* animation: swirl 15s linear 0s infinite normal; */
+    animation: none;
     z-index: -5;
 }
 
@@ -108,12 +108,12 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
+    border: 1px solid #24B682;
     border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
+    box-shadow: 2px 2px 2px #24B682;
     margin: 10px;
     margin-bottom: 25px;
-    background: white;
+    background: whitesmoke;
 }
 
 .col-sm-2.technologies{
@@ -124,7 +124,7 @@ main {
 
 .technos, .words{
     margin-top: -55px;
-    background: white;
+    background: whitesmoke;
     padding:20px;
     border-radius: 20px;
 }
@@ -174,8 +174,8 @@ main {
   }
 
   .modal-header{
-    background-color: lightgray!important;
-    color: #238193;
+    background-color: #24B682!important;
+    color: #50167A;
   }
 
   .modal-body img{
@@ -220,6 +220,17 @@ button{
 .btn-outline-primary:hover{
     color: white!important;
     background-color: #50167A!important;
+}
+
+.btn-outline-primary#swirl-trigger {
+    color: #24B682!important;
+    border-color: #24B682!important;
+    font-weight: bold;
+}
+
+.btn-outline-primary#swirl-trigger:hover{
+    color: #50167A!important;
+    background-color: #24B682!important;;
 }
 
 /* adjusts size of contact icons depending on size of card */

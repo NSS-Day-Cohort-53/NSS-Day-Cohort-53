@@ -46,7 +46,7 @@ function cohortMembers(list) {
     studentContact += `</div>`
 
     let studentInfo = `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
+          <img class="card-img-top" src="/images/${item.proImg ?  `classmates/${item.proImg}` : "proimageHolder.png"}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;" />
           <div class="card-body">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
     //if student didn't provide a reelthemin quote then nothing is displayed
@@ -76,7 +76,7 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
+            <center><img src="images/${item.funImg ? `classmates/${item.funImg}` : "funimageHolder.png"}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
 
             `
 
@@ -123,3 +123,22 @@ function techs(list) {
       </div>`;
   });
 };
+
+let swirlActive = false;
+
+const mainContainer = document.querySelector("main");
+const swirl = document.querySelector(".background")
+
+mainContainer.addEventListener("click", (event) => {
+  if (event.target.id === "swirl-trigger") {
+    if (swirlActive) {
+      swirl.style.animation = "none";
+      event.target.innerHTML = "Activate C53 Zone";
+      swirlActive = false;
+    } else {
+      swirl.style.animation = "swirl 15s linear 0s infinite normal";
+      event.target.innerHTML = "Deactivate";
+      swirlActive = true;
+    }
+  }
+})
