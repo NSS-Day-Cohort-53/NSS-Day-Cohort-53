@@ -109,7 +109,8 @@
             "bio": "Lover of books, music, and all things tech related. I've always been curious and fascinated by how web pages work & how they're created since back in the Myspace",
             "reelThemIn": "“If debugging is the process of removing bugs, then programming must be the process of putting them in.” - Edsger W. Dijkstr",
             "project1Link": "https://github.com/jaypetty/The-Grow-Up",
-            "email": "jayshaun2343@gmail.com"
+            "email": "jayshaun2343@gmail.com",
+            "proImg": "JasminePetty.JPG"
         },
         {
             "id": 10,
@@ -204,6 +205,7 @@
             "project1Link": "https://github.com/sorachung/pet-journal",
             "project1Description": "Pet Journal is a client side web-app with full CRUD functionality made for forgetful pet owners, or anyone that wants to log and keep track of their pets' information. Has a neat feature where the user chooses a default pet whose related data is rendered by default on pages where showing all pets' information may be too overwhelming. Another neat feature is the Dashboard view in which \"starred\" posts and logs are shown on the dashboard page for all pets, regardless of which default pet is chosen.",
             "proImg": "SoRaChung.jpg",
+            "funImg": "SoRaChung_Fun.jpg",
             "email": "sorachung.src@gmail.com"
         }
     ]
