@@ -85,7 +85,9 @@ function cohortMembers(list) {
 
     studentInfo += `
       
-    ${item.bio}
+    <p>${item.bio}</p>
+    <h4 class="card-title title-font project-link"><a href=${item.project1Link} target="_blank">${item.project1Title ? item.project1Title : "Front-End Capstone"}</a></h4>
+    <p>${item.project1Description}</p>
     </div>
     <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
       Back

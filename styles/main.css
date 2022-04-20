@@ -35,6 +35,8 @@ blockquote{
 .navbar{
     background-color: #24B682;
     padding: 20px;
+    /* Below prevents navbar from shifting left when a modal is open */
+    padding-right: 20px !important;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
     background: #50167A;
@@ -155,7 +157,14 @@ main {
   }
 
 .modal-body{
-    display: block;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+  }
+
+  /* prevents page from shifting left when a modal is open */
+  .modal-open[style] {
+      padding-right: 0px !important;
   }
 
   .studentContact{
@@ -187,6 +196,15 @@ main {
 
   .backButton{
       margin-bottom: 1.5rem;
+  }
+
+  .project-link a{
+      color: #50167A;
+      text-decoration: underline;
+    }
+    
+    .project-link a:hover{
+    color: #350944;
   }
 
 .navbar.navbar-light.bg-light.footer{

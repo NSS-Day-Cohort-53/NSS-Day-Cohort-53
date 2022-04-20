@@ -58,9 +58,11 @@
             "linkedIn": "https://www.linkedin.com/in/schmidt-fred/",
             "github": "https://github.com/SchmidtFred",
             "bio": "I'm a former Band Director of five years turned aspiring game/software developer. I have always enjoyed programming, with the unique problem solving opportunities it provides, and kept up with it as a hobby through game jams and other small projects. Now I am fully pursuing my passion and excited for a future in devlopment!",
+            "project1Title": "Checkboard",
             "project1Link": "https://github.com/SchmidtFred/CheckBoard",
             "project1Description": "A fun and interactive list manager based on the achievement systems found in Kirby: Air Ride and Super Smash Bros. Brawl",
             "proImg": "FredSchmidt.jpg",
+            "funImg": "FredSchmidt_fun.jpg",
             "email": "fschmidt@live.com"
         },
         {
